@@ -1,0 +1,86 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+.titulo {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 10px;
+}
+
+img {
+    width: 35px;
+    height: 35px;
+}
+
+form {
+    height: 95vh;
+    width: 100vw;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    gap: 20px;
+}
+
+label {
+    display: flex;
+    flex-direction: column;
+    font-size: 14px;
+}
+
+input {
+    border-radius: 5px;
+    border: 1px solid blueviolet;
+    height: 30px;
+    width: 300px;
+    padding: 0 10px;
+    transition: .3s;
+}
+
+input:hover {
+    background-color: rgba(137, 43, 226, 0.151);
+}
+
+button {
+    width: 300px;
+    height: 40px;
+    margin-top: 10px;
+    border-radius: 5px;
+    border: none;
+    background-color:blueviolet;
+    color: white;
+    font-weight: bold;
+    cursor: pointer;
+    transition: 0.3s;
+}
+
+button:hover {
+    background-color: rgba(137, 43, 226, 0.712);
+} 
+
+span {
+    color: red;
+    position: absolute;
+    margin-top: 50px;
+    font-size: 10px;
+}
+
+.circulo {
+  position: absolute;
+  top: 0;
+  right: 250px;
+  width: 100%;
+  height: 100%;
+  background-color: rgba(137, 43, 226, 0.151);
+  clip-path: circle(40% at left);
+}
+
+footer {
+    text-align: center;
+    color: blueviolet;
+}
