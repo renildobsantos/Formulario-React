@@ -1,6 +1,7 @@
 # Formulário React - Sistema de validação dos Usuários
 
-![print (1)](https://github.com/renildobsantos/Aplicacao-React-Bootstrap/assets/79602519/1bacb3a6-e93b-4434-ba5d-8585fb9e7413)
+![print](https://github.com/renildobsantos/Formulario-React/assets/79602519/721218c5-581c-40a5-ad17-34e27d1107ce)
+![print1](https://github.com/renildobsantos/Formulario-React/assets/79602519/85467cf8-25fd-4972-9da0-e72a317fc103)
 
 # Escopo do projeto:
 ### - Biblioteca Reactjs
